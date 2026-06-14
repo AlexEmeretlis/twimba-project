@@ -1,19 +1,33 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Twimba - Twitter Clone
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+A Twitter-inspired web app built with JavaScript.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Features
 
-Happy Coding!
+	•	📝 Post new tweets that appear at the top of the feed
+	•	❤️ Like and unlike tweets with live counter updates
+	•	🔁 Retweet and unretweet with live counter updates
+	•	💬 View replies for each tweet
+	•	🆔 Each tweet gets a unique ID (UUID v4)
+
+Tech Stack
+
+	•	HTML
+	•	CSS
+	•	JavaScript (ES6+)
+	•	UUID v4
+
+Concepts Used
+
+	•	DOM manipulation
+	•	Event listeners
+	•	Array methods (filter, forEach)
+	•	Data attributes
+	•	Template literals
+	•	Import/Export modules
+	•	Netlify deployment
+
+Live Demo
+
+twimba-projects-alex.netlify
